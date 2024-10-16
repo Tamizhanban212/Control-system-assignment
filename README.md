@@ -1,2 +1,2 @@
 # Control-system-assignment
-Made for project element in control system course
+Done as a project in control system course
